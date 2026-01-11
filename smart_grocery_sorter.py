@@ -87,6 +87,7 @@ def sort_groceries_auto():
             "feta",
             "cheddar",
             "mozzarella",
+            "Quark",
         ],
         "Meat & Seafood": [
             "chicken",
