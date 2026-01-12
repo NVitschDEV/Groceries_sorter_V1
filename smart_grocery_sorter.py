@@ -92,9 +92,7 @@ def sort_groceries_auto():
         "Meat & Seafood": [
             "chicken",
             "beef",
-            "pork",
             "sausage",
-            "bacon",
             "ham",
             "turkey",
             "fish",
@@ -107,7 +105,6 @@ def sort_groceries_auto():
             "steak",
             "ground beef",
             "hot dog",
-            "deli meat",
             "salami",
             "pepperoni",
             "cod",
@@ -129,7 +126,6 @@ def sort_groceries_auto():
             "sauce",
             "cereal",
             "oats",
-            "bread",
             "tortilla",
             "coffee",
             "tea",
@@ -229,7 +225,6 @@ def sort_groceries_auto():
             "bagel",
             "muffin",
             "croissant",
-            "cake",
             "donut",
             "pastry",
             "pie",
@@ -238,7 +233,7 @@ def sort_groceries_auto():
             "rolls",
             "buns",
             "tarts",
-            "cookies",  # Overlap with snacks/pantry but common bakery items
+            "bread",
         ],
         "Household & Personal Care": [
             "soap",
