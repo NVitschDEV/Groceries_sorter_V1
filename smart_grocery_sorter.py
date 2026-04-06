@@ -375,7 +375,5 @@ def sort_groceries_auto():
 
 
 # Run the program when the script is executed
-# if __name__ == "__main__":
-#    sort_groceries()
-
-sort_groceries_auto()
+if __name__ == "__main__":
+    sort_groceries_auto()
